@@ -1,6 +1,6 @@
 # downloader-youtube-mp3
 
-MP3 youtube multi downloader sederhana dengan python.
+MP3 Youtube **multi downloader** sederhana dengan Python.
 
 ## Installation
 
