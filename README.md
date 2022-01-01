@@ -4,11 +4,18 @@ MP3 Youtube **multi downloader** sederhana dengan Python.
 
 ## Installation
 
+#### git clone
+
 * clone [repository](https://github.com/FechL/downloader-youtube-mp3.git) ini
 
 ```bash
 git clone https://github.com/FechL/downloader-youtube-mp3.git
 ```
+
+### download zip
+
+* download zip ini
+* lalu ekstak zipnya
 
 ## Usage
 
