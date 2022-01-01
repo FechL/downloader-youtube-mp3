@@ -5,3 +5,6 @@ Cara menggunakan:
 - Masukin link youtube video ke list.txt
 - Setiap link dipisah dengan baris baru (enter)
 - Klik download.py
+
+requires:
+- install python 3.8+
